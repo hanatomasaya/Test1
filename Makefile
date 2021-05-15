@@ -1,4 +1,7 @@
-#
+$ git clone https://github.com/aws/amazon-connect-streams
+$ cd amazon-connect-streams
+$ make
+$ ls -la amazon-connect-*.js#
 # Minimal Makefile for amazon-connect JS.
 # Concatenates JS assets in the correct order.
 #
