@@ -1,0 +1,5 @@
+$ git clone git@github.com:amazon-connect/amazon-connect-streams.git
+$ cd amazon-connect-streams
+$ make
+$ ls -la amazon-connect-*.js
+-rw-r--r--  1 kong  staff  936728 Apr 21 18:09 amazon-connect-1.4.7.js
